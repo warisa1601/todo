@@ -1,4 +1,4 @@
 Login
 user: admin
 passwd: password
-open window
+login button
